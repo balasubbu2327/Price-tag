@@ -1,0 +1,50 @@
+.row {
+  margin: 70px;
+  background: linear-gradient(to right, #0062E6, #33AEFF);
+}
+.card {
+  margin: 30px 10px;
+  border-radius: 1.25rem;
+ 
+}
+.header {
+  text-align: center;
+  font-size: 0.9rem;
+  letter-spacing: 0.1rem;
+  font-weight: bold;
+  color: #6c757d !important;
+  opacity: 0.7;
+}
+.cardprice {
+  font-size: 3rem;
+  text-align: center;
+  color: #212529;
+}
+hr {
+  color: #212529;
+  height: 1px;
+}
+ul li {
+  margin-bottom: 1rem;
+  list-style-type: none;
+}
+.btn {
+  font-size: 80%;
+  border-radius: 5rem;
+  letter-spacing: 0.1rem;
+  font-weight: bold;
+  padding: 1rem;
+  opacity: 0.7;
+  transition: all 0.2s;
+  width: 400px;
+
+}
+.btn:hover {
+  background-color:#2070e7;
+}
+.fa {
+  padding: 0px 10px;
+}
+.month{
+  font-size: 0.8rem;
+}
